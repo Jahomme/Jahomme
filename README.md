@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi! I'm Jadilson Igor! 👋
 
-<!--
-**Jahomme/Jahomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadilsonigor/)
+[![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadilsonigor@gmail.com)
+##
+<ul> 
+  <li>📚 I am currently studying a bachelor's degree in Information Technology at UFRN</li>
+  <li>💻 
+I am an enthusiast of web development technologies with a desire to always learn more</li>
+</ul>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Jahomme&show_icons=true&theme=radical"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahomme&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
