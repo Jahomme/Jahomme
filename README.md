@@ -7,7 +7,7 @@
 <ul> 
   <li>📚 I am currently studying a bachelor's degree in Information Technology at UFRN</li>
   <li>💻 Enthusiast of web development technologies with a desire to always learn more</li>
-  <li>📘 Currently learning TypesScript</li>
+  <li>📘 Currently learning Java</li>
 </ul>
 
 ##
