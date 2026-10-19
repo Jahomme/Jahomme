@@ -23,11 +23,11 @@
 (NestJS / Next.js)**, **React / Angular** e modelagem em **PostgreSQL**.
 - 🎓 **Formação:** Bacharelado em Tecnologia da Informação pela **Universidade Federal do Rio Grande do Norte (UFRN)**.
 - ⚡ **Impacto Comprovado:**
-- Desenvolvimento e otimização de arquiteturas para processamento de datasets com **mais de 1 milhão de registros**
-com Spring Boot e Angular.
-- Implementação de soluções SaaS escaláveis, módulos de automação e integrações de pagamentos/APIs com Next.js,
-NestJS e Prisma.
-- Criação de pipelines automatizados de CI/CD (GitLab, Docker, Rancher/Portainer) e orquestração de microsserviços.
+  - Desenvolvimento e otimização de arquiteturas para processamento de datasets com **mais de 1 milhão de registros**
+  com Spring Boot e Angular.
+  - Implementação de soluções SaaS escaláveis, módulos de automação e integrações de pagamentos/APIs com Next.js,
+  NestJS e Prisma.
+  - Criação de pipelines automatizados de CI/CD (GitLab, Docker, Rancher/Portainer) e orquestração de microsserviços.
 - 🎯 **Foco Atual:** Arquitetura de software orientada a dados, boas práticas (Clean Code / SOLID), alta
 disponibilidade e ferramentas de produtividade orientadas por IA.
 
@@ -68,16 +68,13 @@ disponibilidade e ferramentas de produtividade orientadas por IA.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.
-app/api?username=Jahomme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas
-do GitHub" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-
-langs/?username=Jahomme&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens Mais Usadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jahomme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahomme&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens Mais Usadas" />
 </div>
 
 <div align="center">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahomme&theme=tokyonight"
-alt="Streak do GitHub" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahomme&theme=tokyonight"
+  alt="Streak do GitHub" />
 </div>
 
 ---
@@ -87,4 +84,4 @@ alt="Streak do GitHub" />
 - 💼 **LinkedIn:** https://linkedin.com/in/jadilson
 - 📧 **E-mail:** [jadilsonigor@gmail.com](mailto:jadilsonigor@gmail.com)
 - 🌐 **Localização:** Natal, Rio Grande do Norte — Brasil (UTC-3)
-──────
+
